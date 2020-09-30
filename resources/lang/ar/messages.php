@@ -15,4 +15,10 @@ return [
 
         "hello" => 'مرحبا بكم ',
         "messages" => 'صفحة الرسائل',
+    "name required" => 'اسم العرض مطلوب',
+    "name max" => 'طول العرض يجب ان لا يزيد عن 100 حرف',
+    "name unique" => 'اسم العرض يجب ان يكون فريد',
+    "price required" => 'السعر مطلوب ',
+    "price numeric" => 'حقل السعر يجب ان يكون رقم',
+    "details required" => 'التفاصيل مطلوبة',
 ];

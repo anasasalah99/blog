@@ -14,4 +14,10 @@ return [
     */
     "hello" => 'Welcome ',
     "messages" => 'MESSAGES PAGE',
+    "name required" => 'Name of offer required',
+    "name max" => 'Max letters 100 ',
+    "name unique" => 'name unique',
+    "price required" => 'price required',
+    "price numeric" => 'price numeric',
+    "details required" => 'details required'
 ];
